@@ -1,3 +1,3 @@
-# JavaScrip_4-dars
+# JavaScript_4-dars
 
-Ushbu repostorida JavaScrip 4-dars kodlari bor
+Ushbu repostorida JavaScript 4-dars kodlari bor
